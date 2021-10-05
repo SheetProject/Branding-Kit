@@ -1,12 +1,3 @@
 ### Color palette
 
-\#004078 \#005299
-\#005fb3 \#005fb8
-\#135ea3 \#0069cf
-\#0073ef \#0073f3
-\#1a85f3 \#258cf8
-\#3996f5 \#3d99f9
-\#3996f0 \#4199f9
-\#3996f6 \#85bff5
-\#71b5f4 \#a1cdf4
-
+![alt text](https://github.com/SheetProject/Branding-Kit/blob/main/palette/palette.png?raw=true)
